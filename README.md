@@ -45,7 +45,7 @@ standup  ·  2026-11-17 → 2026-11-18
 ## 🚀 Install
 
 ```bash
-npx @varun642002/standup
+npx github:varun642002/standup
 ```
 
 Or clone it — there's nothing to build:
